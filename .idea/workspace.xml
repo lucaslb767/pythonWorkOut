@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120396af-4d47-4697-bbe1-a7c9e370e7b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter2/simple_message.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonCrashCourse/chapter2/hello_world2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter2/hello_world2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter2/name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
     <SUITE FILE_PATH="coverage/pythonWorkOut$hello_world2.coverage" NAME="hello_world2 Coverage Results" MODIFIED="1540950882547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter2" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$simple_message.coverage" NAME="simple_message Coverage Results" MODIFIED="1540951259941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter2" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1540948366685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter1" />
+    <SUITE FILE_PATH="coverage/pythonWorkOut$name.coverage" NAME="name Coverage Results" MODIFIED="1540952049144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter2" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1101536810">
@@ -28,22 +29,22 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="33" />
-          <entry key="py" value="125" />
+          <entry key="py" value="362" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="158" />
+          <entry key="Python" value="395" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
     </session>
@@ -68,9 +69,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter2/simple_message.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter2/simple_messages.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter2/name.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -91,6 +114,8 @@
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter1/hello_world.py" />
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter2/hello_world2.py" />
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter2/simple_message.py" />
+        <option value="$PROJECT_DIR$/pythonCrashCourse/chapter2/simple_messages.py" />
+        <option value="$PROJECT_DIR$/pythonCrashCourse/chapter2/name.py" />
       </list>
     </option>
   </component>
@@ -153,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.simple_messages">
+  <component name="RunManager" selected="Python.name">
     <configuration name="hello_world" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonWorkOut" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,6 +215,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter2/hello_world2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="name" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonWorkOut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCrashCourse/chapter2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter2/name.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,9 +294,11 @@
       <item itemvalue="Python.hello_world2" />
       <item itemvalue="Python.simple_message" />
       <item itemvalue="Python.simple_messages" />
+      <item itemvalue="Python.name" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.name" />
         <item itemvalue="Python.simple_messages" />
         <item itemvalue="Python.simple_message" />
         <item itemvalue="Python.hello_world2" />
@@ -275,7 +324,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
@@ -285,7 +334,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32971016" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32971016" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -319,7 +368,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter2/simple_message.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter2/simple_messages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter2/name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
