@@ -20,14 +20,14 @@ guest_invite()
 
 print('Well, unfortunately I can only invite 2 people.')
 
-for i in range (0,len(guests)):
-   removed_guest = guests.pop(i)
+for i in range (0,len(guests)-2):
+   removed_guest = guests.pop(0)
 
    print ('Sorry for the inconvinience,', removed_guest)
    print(guests)
 
 for i in range(0,2):
-    print('You are still invited ', guests[i])
-    del guests[i]
+    print('You are still invited ', guests[0])
+    del guests[0]
 
 print(guests)
