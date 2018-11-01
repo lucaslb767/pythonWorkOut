@@ -17,3 +17,7 @@ guests.insert(2,'Bill Gates')
 guests.append('Fred')
 
 guest_invite()
+
+#TY_3.9
+
+print(len(guests))

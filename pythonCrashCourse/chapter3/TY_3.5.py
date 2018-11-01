@@ -12,3 +12,7 @@ guests[2] = 'Obama'
 
 guest_invite()
 
+#TY_3.9
+
+print(len(guests))
+

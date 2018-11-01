@@ -31,3 +31,7 @@ for i in range(0,2):
     del guests[0]
 
 print(guests)
+
+#TY_3.9
+
+print(len(guests))
