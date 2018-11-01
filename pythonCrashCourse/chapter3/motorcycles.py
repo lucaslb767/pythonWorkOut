@@ -18,3 +18,7 @@ popped_moto = moto.pop()
 
 print(moto)
 print(popped_moto)
+
+moto.remove('honda')
+
+print(moto)
