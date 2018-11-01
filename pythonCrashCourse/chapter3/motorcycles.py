@@ -13,3 +13,8 @@ print(moto)
 del moto[0]
 
 print(moto)
+
+popped_moto = moto.pop()
+
+print(moto)
+print(popped_moto)
