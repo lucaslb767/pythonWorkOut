@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="120396af-4d47-4697-bbe1-a7c9e370e7b3" name="Default Changelist" comment="" />
+    <list default="true" id="120396af-4d47-4697-bbe1-a7c9e370e7b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter3/cars.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +14,7 @@
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_2_5.coverage" NAME="TY_2.5 Coverage Results" MODIFIED="1540954081594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter2" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_2_8.coverage" NAME="TY_2.8 Coverage Results" MODIFIED="1540955535742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter2" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_3_6.coverage" NAME="TY_3.6 Coverage Results" MODIFIED="1541036034695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter3" />
+    <SUITE FILE_PATH="coverage/pythonWorkOut$cars.coverage" NAME="cars Coverage Results" MODIFIED="1541104721400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter3" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$simple_message.coverage" NAME="simple_message Coverage Results" MODIFIED="1540951259941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter2" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_3_4.coverage" NAME="TY_3.4 Coverage Results" MODIFIED="1541034701286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter3" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$bicycles.coverage" NAME="bicycles Coverage Results" MODIFIED="1541031308093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter3" />
@@ -35,40 +38,41 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="33" />
-          <entry key="py" value="2150" />
+          <entry key="py" value="2196" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2183" />
+          <entry key="Python" value="2229" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="20" />
+          <entry key="py" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="20" />
+          <entry key="Python" value="21" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter3/TY_3.1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="19" lean-forward="true" selection-start-line="2" selection-end-line="3" selection-end-column="19" />
+              <caret line="3" column="19" selection-start-line="2" selection-end-line="3" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -95,7 +99,7 @@
         <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter3/TY_3.4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="34" lean-forward="true" selection-end-line="3" selection-end-column="67" />
+              <caret line="3" column="34" selection-end-line="3" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -104,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter3/TY_3.5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="14" lean-forward="true" selection-end-line="14" />
+              <caret line="12" column="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -118,11 +122,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter3/TY_3.7.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="77" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="77" />
+            <state relative-caret-position="450">
+              <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter3/cars.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="45" selection-start-column="45" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -162,6 +175,7 @@
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter3/TY_3.5.py" />
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter3/TY_3.6.py" />
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter3/TY_3.7.py" />
+        <option value="$PROJECT_DIR$/pythonCrashCourse/chapter3/cars.py" />
       </list>
     </option>
   </component>
@@ -182,6 +196,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,7 +219,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TY_3.7">
+  <component name="RunManager" selected="Python.cars">
     <configuration name="TY_3.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonWorkOut" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -313,7 +327,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="motorcycles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="cars" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonWorkOut" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,7 +340,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter3/motorcycles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter3/cars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,19 +350,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.motorcycles" />
       <item itemvalue="Python.TY_3.4" />
       <item itemvalue="Python.TY_3.5" />
       <item itemvalue="Python.TY_3.6" />
       <item itemvalue="Python.TY_3.7" />
+      <item itemvalue="Python.cars" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cars" />
         <item itemvalue="Python.TY_3.7" />
         <item itemvalue="Python.TY_3.6" />
         <item itemvalue="Python.TY_3.5" />
         <item itemvalue="Python.TY_3.4" />
-        <item itemvalue="Python.motorcycles" />
       </list>
     </recent_temporary>
   </component>
@@ -367,28 +381,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="140" y="42" width="1400" height="920" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32971016" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32971016" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32971016" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32971016" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +507,7 @@
     <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter3/TY_3.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="2" selection-end-line="3" selection-end-column="19" />
+          <caret line="3" column="19" selection-start-line="2" selection-end-line="3" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -513,14 +528,14 @@
     <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter3/TY_3.4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="34" lean-forward="true" selection-end-line="3" selection-end-column="67" />
+          <caret line="3" column="34" selection-end-line="3" selection-end-column="67" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter3/TY_3.5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="14" lean-forward="true" selection-end-line="14" />
+          <caret line="12" column="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -533,8 +548,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter3/TY_3.7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="77" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="77" />
+        <state relative-caret-position="450">
+          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter3/cars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
         </state>
       </provider>
     </entry>
