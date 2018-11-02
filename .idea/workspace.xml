@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120396af-4d47-4697-bbe1-a7c9e370e7b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter4/players.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,6 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/pythonWorkOut$players.coverage" NAME="players Coverage Results" MODIFIED="1541183342026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$cars.coverage" NAME="cars Coverage Results" MODIFIED="1541106070360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter3" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_4_2.coverage" NAME="TY_4.2 Coverage Results" MODIFIED="1541168371599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$simple_message.coverage" NAME="simple_message Coverage Results" MODIFIED="1540951259941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter2" />
@@ -65,37 +61,28 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="33" />
-          <entry key="py" value="4498" />
+          <entry key="py" value="4937" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="4531" />
+          <entry key="Python" value="4970" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="34" />
+          <entry key="py" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="34" />
+          <entry key="Python" value="35" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter4/numbers.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,11 +155,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.8.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+              <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter4/players.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -226,6 +222,7 @@
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.6.py" />
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.7.py" />
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.8.py" />
+        <option value="$PROJECT_DIR$/pythonCrashCourse/chapter4/players.py" />
       </list>
     </option>
   </component>
@@ -288,29 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TY_4.8">
-    <configuration name="TY_4.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pythonWorkOut" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.players">
     <configuration name="TY_4.5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonWorkOut" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -399,20 +374,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="players" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonWorkOut" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter4/players.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.TY_4.4" />
       <item itemvalue="Python.TY_4.5" />
       <item itemvalue="Python.TY_4.6" />
       <item itemvalue="Python.TY_4.7" />
       <item itemvalue="Python.TY_4.8" />
+      <item itemvalue="Python.players" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.players" />
         <item itemvalue="Python.TY_4.8" />
         <item itemvalue="Python.TY_4.7" />
         <item itemvalue="Python.TY_4.6" />
         <item itemvalue="Python.TY_4.5" />
-        <item itemvalue="Python.TY_4.4" />
       </list>
     </recent_temporary>
   </component>
@@ -697,7 +694,14 @@
     <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter4/players.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
         </state>
       </provider>
     </entry>
