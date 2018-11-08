@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120396af-4d47-4697-bbe1-a7c9e370e7b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter5/banned_users.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +39,7 @@
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_4_7.coverage" NAME="TY_4.7 Coverage Results" MODIFIED="1541182474700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$dimensions.coverage" NAME="dimensions Coverage Results" MODIFIED="1541187538442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_4_3.coverage" NAME="TY_4.3 Coverage Results" MODIFIED="1541181603476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
+    <SUITE FILE_PATH="coverage/pythonWorkOut$TY_5_1.coverage" NAME="TY_5.1 Coverage Results" MODIFIED="1541644782106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter5" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_3_2.coverage" NAME="TY_3.2 Coverage Results" MODIFIED="1541031990404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter3" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_4_10.coverage" NAME="TY_4.10 Coverage Results" MODIFIED="1541186506603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_2_6.coverage" NAME="TY_2.6 Coverage Results" MODIFIED="1540954085711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter2" />
@@ -52,6 +54,7 @@
     <SUITE FILE_PATH="coverage/pythonWorkOut$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1540948366685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter1" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$motorcycles.coverage" NAME="motorcycles Coverage Results" MODIFIED="1541034357347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter3" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$banned_users.coverage" NAME="banned_users Coverage Results" MODIFIED="1541363093745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter5" />
+    <SUITE FILE_PATH="coverage/pythonWorkOut$TY_5_3.coverage" NAME="TY_5.3 Coverage Results" MODIFIED="1541644930107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter5" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1101536810">
@@ -66,46 +69,28 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="33" />
-          <entry key="py" value="5906" />
+          <entry key="py" value="6157" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5939" />
+          <entry key="Python" value="6190" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="42" />
+          <entry key="py" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="42" />
+          <entry key="Python" value="44" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter4/players.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,11 +118,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter5/banned_users.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -234,6 +237,8 @@
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter4/dimensions.py" />
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter5/cars.py" />
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter5/banned_users.py" />
+        <option value="$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.1.py" />
+        <option value="$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.3.py" />
       </list>
     </option>
   </component>
@@ -296,8 +301,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.banned_users">
-    <configuration name="TY_4.10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.TY_5.3">
+    <configuration name="TY_5.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonWorkOut" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,12 +310,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCrashCourse/chapter5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,7 +324,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TY_4.11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TY_5.3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonWorkOut" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,12 +332,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCrashCourse/chapter5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter4/TY_4.11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -408,19 +413,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.TY_4.10" />
-      <item itemvalue="Python.TY_4.11" />
       <item itemvalue="Python.dimensions" />
       <item itemvalue="Python.cars" />
       <item itemvalue="Python.banned_users" />
+      <item itemvalue="Python.TY_5.1" />
+      <item itemvalue="Python.TY_5.3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TY_5.3" />
+        <item itemvalue="Python.TY_5.1" />
         <item itemvalue="Python.banned_users" />
         <item itemvalue="Python.cars" />
         <item itemvalue="Python.dimensions" />
-        <item itemvalue="Python.TY_4.11" />
-        <item itemvalue="Python.TY_4.10" />
       </list>
     </recent_temporary>
   </component>
@@ -754,7 +759,21 @@
     <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter5/banned_users.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
