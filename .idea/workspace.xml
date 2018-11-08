@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="120396af-4d47-4697-bbe1-a7c9e370e7b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonCrashCourse/chapter5/requested_items.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +13,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/pythonWorkOut$players.coverage" NAME="players Coverage Results" MODIFIED="1541183342026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_4_11.coverage" NAME="TY_4.11 Coverage Results" MODIFIED="1541186512498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
+    <SUITE FILE_PATH="coverage/pythonWorkOut$requested_items.coverage" NAME="requested_items Coverage Results" MODIFIED="1541646002510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter5" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$TY_4_2.coverage" NAME="TY_4.2 Coverage Results" MODIFIED="1541168371599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$cars.coverage" NAME="cars Coverage Results" MODIFIED="1541354019976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter5" />
     <SUITE FILE_PATH="coverage/pythonWorkOut$simple_message.coverage" NAME="simple_message Coverage Results" MODIFIED="1540951259941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonCrashCourse/chapter2" />
@@ -69,37 +68,28 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="33" />
-          <entry key="py" value="6157" />
+          <entry key="py" value="6158" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="6190" />
+          <entry key="Python" value="6191" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="44" />
+          <entry key="py" value="45" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="44" />
+          <entry key="Python" value="45" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter4/players.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter4/foods.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -136,13 +126,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter5/requested_items.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -239,6 +234,7 @@
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter5/banned_users.py" />
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.1.py" />
         <option value="$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.3.py" />
+        <option value="$PROJECT_DIR$/pythonCrashCourse/chapter5/requested_items.py" />
       </list>
     </option>
   </component>
@@ -301,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TY_5.3">
+  <component name="RunManager" selected="Python.requested_items">
     <configuration name="TY_5.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonWorkOut" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -390,7 +386,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dimensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="requested_items" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonWorkOut" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -398,12 +394,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCrashCourse/chapter4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonCrashCourse/chapter5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter4/dimensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonCrashCourse/chapter5/requested_items.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -413,19 +409,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.dimensions" />
       <item itemvalue="Python.cars" />
       <item itemvalue="Python.banned_users" />
       <item itemvalue="Python.TY_5.1" />
       <item itemvalue="Python.TY_5.3" />
+      <item itemvalue="Python.requested_items" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.requested_items" />
         <item itemvalue="Python.TY_5.3" />
         <item itemvalue="Python.TY_5.1" />
         <item itemvalue="Python.banned_users" />
         <item itemvalue="Python.cars" />
-        <item itemvalue="Python.dimensions" />
       </list>
     </recent_temporary>
   </component>
@@ -446,12 +442,12 @@
     <frame x="140" y="42" width="1400" height="920" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32971016" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32971016" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -773,9 +769,12 @@
     <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter5/TY_5.3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonCrashCourse/chapter5/requested_items.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
