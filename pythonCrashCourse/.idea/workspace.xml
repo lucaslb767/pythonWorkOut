@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe485c46-42a2-4241-a648-1691242f9be0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter6/favorite_languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/TY_6..2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter6/TY_6.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +16,8 @@
     <SUITE FILE_PATH="coverage/pythonCrashCourse$TY_4_4.coverage" NAME="TY_4.4 Coverage Results" MODIFIED="1541823720731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pythonCrashCourse$aliens.coverage" NAME="aliens Coverage Results" MODIFIED="1542091232717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
     <SUITE FILE_PATH="coverage/pythonCrashCourse$favorite_languages.coverage" NAME="favorite_languages Coverage Results" MODIFIED="1542091234809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
+    <SUITE FILE_PATH="coverage/pythonCrashCourse$TY_6_1.coverage" NAME="TY_6.1 Coverage Results" MODIFIED="1542091768274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
+    <SUITE FILE_PATH="coverage/pythonCrashCourse$TY_6__2.coverage" NAME="TY_6..2 Coverage Results" MODIFIED="1542092060554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter6" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1895048858">
@@ -28,22 +31,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="366" />
+          <entry key="py" value="633" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="366" />
+          <entry key="Python" value="633" />
         </counts>
       </usages-collector>
     </session>
@@ -68,11 +71,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter6/favorite_languages.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter6/TY_6.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="98" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter6/TY_6..2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -94,6 +115,8 @@
       <list>
         <option value="$PROJECT_DIR$/chapter6/aliens.py" />
         <option value="$PROJECT_DIR$/chapter6/favorite_languages.py" />
+        <option value="$PROJECT_DIR$/chapter6/TY_6.1.py" />
+        <option value="$PROJECT_DIR$/chapter6/TY_6..2.py" />
       </list>
     </option>
   </component>
@@ -150,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.favorite_languages">
+  <component name="RunManager" selected="Python.TY_6..2">
     <configuration name="TY_4.4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pythonCrashCourse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,6 +188,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter4/TY_4.4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TY_6.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonCrashCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter6/TY_6.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TY_6..2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pythonCrashCourse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter6/TY_6..2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,9 +288,13 @@
       <item itemvalue="Python.TY_4.4" />
       <item itemvalue="Python.aliens" />
       <item itemvalue="Python.favorite_languages" />
+      <item itemvalue="Python.TY_6.1" />
+      <item itemvalue="Python.TY_6..2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TY_6..2" />
+        <item itemvalue="Python.TY_6.1" />
         <item itemvalue="Python.favorite_languages" />
         <item itemvalue="Python.aliens" />
         <item itemvalue="Python.TY_4.4" />
@@ -297,6 +368,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="59" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/TY_6.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="98" selection-start-line="7" selection-start-column="98" selection-end-line="7" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter6/TY_6..2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
