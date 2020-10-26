@@ -81,3 +81,10 @@ def solicita_PIB(lista_paises, label_pais_ano):
 
 print(solicita_PIB(lista_paises,label_pais_ano))
 
+#B
+
+def variacao_PIB(lista_paises, label_pais_ano):
+    for pais in lista_paises:
+        print(f'{pais[0]}  Variação de {((pais[-1]/pais[1])-1)*100 :.2f}% entre {label_pais_ano[1]} e {label_pais_ano[-1]}')
+
+variacao_PIB(lista_paises,label_pais_ano)
