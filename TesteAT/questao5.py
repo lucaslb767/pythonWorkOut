@@ -1,5 +1,5 @@
 import os
-import math
+import matplotlib.pyplot as plt
 
 #abre arquivo
 file = open('Assessment_PIBs_-_Planilha1.csv', 'r', encoding='utf8')
@@ -88,3 +88,15 @@ def variacao_PIB(lista_paises, label_pais_ano):
         print(f'{pais[0]}  Variação de {((pais[-1]/pais[1])-1)*100 :.2f}% entre {label_pais_ano[1]} e {label_pais_ano[-1]}')
 
 variacao_PIB(lista_paises,label_pais_ano)
+
+#C
+
+def grafico(lista_paises, label_pais_ano):
+    pais = solicita_pais(lista_paises)
+    eixo_y = lista_paises[pais][1:]
+    eixo_x = label_pais_ano[1:]
+
+    plt.plot(eixo_x, eixo_y)
+    plt.show()
+
+grafico(lista_paises,label_pais_ano)
